@@ -1,0 +1,40 @@
+Collecting package metadata (current_repodata.json): ...working... done
+Solving environment: ...working... failed with initial frozen solve. Retrying with flexible solve.
+Solving environment: ...working... done
+Collecting package metadata (repodata.json): ...working... done
+Solving environment: ...working... done
+
+## Package Plan ##
+
+  environment location: /opt/conda/envs/verl-agent
+
+  added / updated specs:
+    - cmake
+
+
+The following packages will be downloaded:
+
+    package                    |            build
+    ---------------------------|-----------------
+    ca-certificates-2025.11.12 |       hbd8a1cb_0         149 KB  conda-forge
+    cmake-3.5.0                |                3        10.4 MB  conda-forge
+    ------------------------------------------------------------
+                                           Total:        10.5 MB
+
+The following NEW packages will be INSTALLED:
+
+  cmake              conda-forge/linux-64::cmake-3.5.0-3
+
+The following packages will be UPDATED:
+
+  ca-certificates    anaconda/pkgs/main/linux-64::ca-certi~ --> conda-forge/noarch::ca-certificates-2025.11.12-hbd8a1cb_0
+
+
+Proceed ([y]/n)? 
+
+Downloading and Extracting Packages
+ca-certificates-2025 | 149 KB    |            |   0% ca-certificates-2025 | 149 KB    | #          |  11% ca-certificates-2025 | 149 KB    | ########## | 100% ca-certificates-2025 | 149 KB    | ########## | 100% 
+cmake-3.5.0          | 10.4 MB   |            |   0% cmake-3.5.0          | 10.4 MB   | 1          |   2% cmake-3.5.0          | 10.4 MB   | 9          |   9% cmake-3.5.0          | 10.4 MB   | #1         |  11% cmake-3.5.0          | 10.4 MB   | ##         |  20% cmake-3.5.0          | 10.4 MB   | ##1        |  22% cmake-3.5.0          | 10.4 MB   | ###        |  31% cmake-3.5.0          | 10.4 MB   | ###5       |  35% cmake-3.5.0          | 10.4 MB   | ####2      |  42% cmake-3.5.0          | 10.4 MB   | ####4      |  45% cmake-3.5.0          | 10.4 MB   | ####6      |  46% cmake-3.5.0          | 10.4 MB   | ####7      |  48% cmake-3.5.0          | 10.4 MB   | ####9      |  49% cmake-3.5.0          | 10.4 MB   | #####      |  51% cmake-3.5.0          | 10.4 MB   | #####2     |  52% cmake-3.5.0          | 10.4 MB   | #####3     |  53% cmake-3.5.0          | 10.4 MB   | #####4     |  54% cmake-3.5.0          | 10.4 MB   | #####5     |  56% cmake-3.5.0          | 10.4 MB   | #####6     |  57% cmake-3.5.0          | 10.4 MB   | #####7     |  58% cmake-3.5.0          | 10.4 MB   | #####8     |  59% cmake-3.5.0          | 10.4 MB   | #####9     |  60% cmake-3.5.0          | 10.4 MB   | ######1    |  61% cmake-3.5.0          | 10.4 MB   | ######2    |  63% cmake-3.5.0          | 10.4 MB   | ######5    |  66% cmake-3.5.0          | 10.4 MB   | #######    |  70% cmake-3.5.0          | 10.4 MB   | #######2   |  73% cmake-3.5.0          | 10.4 MB   | #######4   |  74% cmake-3.5.0          | 10.4 MB   | ########1  |  81% cmake-3.5.0          | 10.4 MB   | ########4  |  85% cmake-3.5.0          | 10.4 MB   | #########2 |  92% cmake-3.5.0          | 10.4 MB   | #########6 |  96% cmake-3.5.0          | 10.4 MB   | #########9 |  99% cmake-3.5.0          | 10.4 MB   | ########## | 100% 
+Preparing transaction: ...working... done
+Verifying transaction: ...working... done
+Executing transaction: ...working... done

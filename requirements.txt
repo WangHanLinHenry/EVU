@@ -1,0 +1,6 @@
+-r verl-agent/requirements.txt
+openai
+vllm
+fs-chat
+colorama
+scienceworld
